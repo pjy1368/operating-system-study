@@ -9,7 +9,6 @@
 ## 👨‍💻  스터디원
 | 이름   | GitHub                                         |
 | ---- | ---------------------------------------------- |
-| 성원 | [@seongwonme](https://github.com/seongwonme) |
 | 동국 | [@ppusda](https://github.com/ppusda)|
 | 진영 | [@pjy1368](https://github.com/pjy1368) |
 
