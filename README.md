@@ -18,3 +18,6 @@
 - [교재](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158903589)
 
 ## 학습 주제
+### 1주차
+- [Introduction to Operating Systems](https://core.ewha.ac.kr/publicview/C0101020140307151724641842?vmode=f)
+- [System Structure & Program Execution 1](https://core.ewha.ac.kr/publicview/C0101020140311132925816476?vmode=f)
