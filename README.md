@@ -21,3 +21,5 @@
 ### 1주차
 - [Introduction to Operating Systems](https://core.ewha.ac.kr/publicview/C0101020140307151724641842?vmode=f)
 - [System Structure & Program Execution 1](https://core.ewha.ac.kr/publicview/C0101020140311132925816476?vmode=f)
+- [System Structure & Program Execution 2](https://core.ewha.ac.kr/publicview/C0101020140314151238067290?vmode=f)
+- [Process 1](https://core.ewha.ac.kr/publicview/C0101020140318134023355997?vmode=f)
