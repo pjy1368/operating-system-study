@@ -31,3 +31,7 @@
 - [Process 3](https://core.ewha.ac.kr/publicview/C0101020140321143516139010?vmode=f)
 - [Process Management 1](https://core.ewha.ac.kr/publicview/C0101020140321144554159683?vmode=f)
 - [Process Management 2](https://core.ewha.ac.kr/publicview/C0101020140325134428879622?vmode=f)
+
+### 4주차
+- [CPU Scheduling 1](https://core.ewha.ac.kr/publicview/C0101020140328151311578473?vmode=f)
+- [CPU Scheduling 2/ Process Synchronization 1](https://core.ewha.ac.kr/publicview/C0101020140401134252676046?vmode=f)
