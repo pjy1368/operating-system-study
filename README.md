@@ -25,3 +25,9 @@
 ### 2주차
 - [System Structure & Program Execution 2](https://core.ewha.ac.kr/publicview/C0101020140314151238067290?vmode=f)
 - [Process 1](https://core.ewha.ac.kr/publicview/C0101020140318134023355997?vmode=f)
+
+### 3주차
+- [Process 2](https://core.ewha.ac.kr/publicview/C0101020140321141759959993?vmode=f)
+- [Process 3](https://core.ewha.ac.kr/publicview/C0101020140321143516139010?vmode=f)
+- [Process Management 1](https://core.ewha.ac.kr/publicview/C0101020140321144554159683?vmode=f)
+- [Process Management 2](https://core.ewha.ac.kr/publicview/C0101020140325134428879622?vmode=f)
