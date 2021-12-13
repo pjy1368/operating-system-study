@@ -35,3 +35,9 @@
 ### 4주차
 - [CPU Scheduling 1](https://core.ewha.ac.kr/publicview/C0101020140328151311578473?vmode=f)
 - [CPU Scheduling 2/ Process Synchronization 1](https://core.ewha.ac.kr/publicview/C0101020140401134252676046?vmode=f)
+
+### 5주차
+- [Process Synchronization 1](https://core.ewha.ac.kr/publicview/C0101020140404144354492628?vmode=f)
+- [Process Synchronization 2](https://core.ewha.ac.kr/publicview/C0101020140404151340260748?vmode=f)
+- [Process Synchronization 3](https://core.ewha.ac.kr/publicview/C0101020140408134626290222?vmode=f)
+- [Process Synchronization 4 (Concurrency Control)](https://core.ewha.ac.kr/publicview/C0101020140411143154161543?vmode=f)
