@@ -211,7 +211,7 @@ void test(int i) {
 
 프로세스가 공유 데이터에 접근하기 위해서는 위와 같이 모니터 내부의 프로시저를 통해서만 공유 데이터를 접근할 수 있도록 설계한다.
 
-![Untitled]https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F13504d56-cb84-4e66-8442-995246d28a7e%2FUntitled.png?table=block&id=a35139a3-1de0-4762-aa27-334475307948&spaceId=b453bd85-cb15-44b5-bf2e-580aeda8074e&width=2000&userId=80352c12-65a4-4562-9a36-2179ed0dfffb&cache=v2)
+![Untitled](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F13504d56-cb84-4e66-8442-995246d28a7e%2FUntitled.png?table=block&id=a35139a3-1de0-4762-aa27-334475307948&spaceId=b453bd85-cb15-44b5-bf2e-580aeda8074e&width=2000&userId=80352c12-65a4-4562-9a36-2179ed0dfffb&cache=v2)
 
 예를 들어 공유 데이터들이 있으면 밖에서 아무나 접근할 수 있는 것이 아니라 모니터 내부에 공유 데이터에 접근하는 프로시저를 정의해 놓고 이 프로시저를 통해서만 접근하게 제어한다. 
 
