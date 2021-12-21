@@ -41,3 +41,7 @@
 - [Process Synchronization 2](https://core.ewha.ac.kr/publicview/C0101020140404151340260748?vmode=f)
 - [Process Synchronization 3](https://core.ewha.ac.kr/publicview/C0101020140408134626290222?vmode=f)
 - [Process Synchronization 4 (Concurrency Control)](https://core.ewha.ac.kr/publicview/C0101020140411143154161543?vmode=f)
+
+## 6주차
+- [Deadlock 1](https://core.ewha.ac.kr/publicview/C0101020140411151510275738?vmode=f)
+- [Deadlock 2](https://core.ewha.ac.kr/publicview/C0101020140415131030840772?vmode=f)
