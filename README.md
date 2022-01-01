@@ -46,3 +46,8 @@
 - [Deadlock 1](https://core.ewha.ac.kr/publicview/C0101020140411151510275738?vmode=f)
 - [Deadlock 2](https://core.ewha.ac.kr/publicview/C0101020140415131030840772?vmode=f)
 - [Memory Management 1](https://core.ewha.ac.kr/publicview/C0101020140425151219100144?vmode=f)
+
+## 7주차
+- [Memory Management 2](https://core.ewha.ac.kr/publicview/C0101020140429132440045277?vmode=f)
+- [Memory Management 3](https://core.ewha.ac.kr/publicview/C0101020140502151452123728?vmode=f)
+- [Memory Management 4](https://core.ewha.ac.kr/publicview/C0101020140509142939477563?vmode=f)
