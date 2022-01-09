@@ -55,4 +55,3 @@
 ## 8주차
 - [Virtual Memory 1](https://core.ewha.ac.kr/publicview/C0101020140509151648408460?vmode=f)
 - [Virtual Memory 2](https://core.ewha.ac.kr/publicview/C0101020140513133424380501?vmode=f)
-- [File Systems](https://core.ewha.ac.kr/publicview/C0101020140516150939191200?vmode=f)
