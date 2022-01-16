@@ -73,22 +73,23 @@ Invalid로 표시가 되어있다.
     4. **LFU (Least Frequently Used) Algorithm**
         - 참조 횟수가 가장 적은 페이지를 지우는 알고리즘이다.
     
-    - **장단점**
-        - LRU는 직전 참조 시점만 보는 게 아니라 장기적인 시간 규모를 보기 때문에 LFU보다 더 page의 인기도를 좀 더 정확히 반영할 수 있다.
-        - LFU는 LRU와는 달리 참조 시점의 최근성을 반영하지 못한다.
-        - LFU는 LRU보다 구현이 복잡하다.
-        
-    - **구현**
-        - **LRU**
-            - 가장 최근에 참조된 요소를 아래에 둔다. (최고 우선순위)
-                
-                ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/61c0b2f4-e110-41ca-b347-e0c688c84dff/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220109T095608Z&X-Amz-Expires=86400&X-Amz-Signature=6d6696211f7514d6f0d1ba949a63de95342a52cffc77f4b673b3d9a24524a457&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
-                
-            - O(1)인 시간 복잡도가 나오게 된다.
-        - **LFU**
-            - 맨 위에 참조 횟수가 가장 적은 요소를 두고,
-            밑에 자식 요소와만 비교하여 아래로 내려가는 방식을 반복함.
-                
-                ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/80f4821a-e140-44b8-bf76-025855cecf07/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220109T095623Z&X-Amz-Expires=86400&X-Amz-Signature=2c77b380040130d032883393a14ca25e71d492c4a2a51f604345ecd2f4184efb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
-                
-            - O(log n)인 시간 복잡도가 나오게 된다.
+        - **장점**
+            - LFU는 직전 참조 시점만 보는 게 아니라 장기적인 시간 규모를 보기 때문에 LRU보다 더 page의 인기도를 좀 더 정확히 반영할 수 있다.
+        - **단점**
+            - LFU는 LRU와는 달리 참조 시점의 최근성을 반영하지 못한다.
+            - LFU는 LRU보다 구현이 복잡하다.
+
+ - **구현**
+    - **LRU**
+        - 가장 최근에 참조된 요소를 아래에 둔다. (최고 우선순위)
+            
+            ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/61c0b2f4-e110-41ca-b347-e0c688c84dff/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220109T095608Z&X-Amz-Expires=86400&X-Amz-Signature=6d6696211f7514d6f0d1ba949a63de95342a52cffc77f4b673b3d9a24524a457&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+            
+        - O(1)인 시간 복잡도가 나오게 된다.
+    - **LFU**
+        - 맨 위에 참조 횟수가 가장 적은 요소를 두고,
+        밑에 자식 요소와만 비교하여 아래로 내려가는 방식을 반복함.
+            
+             ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/80f4821a-e140-44b8-bf76-025855cecf07/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220109T095623Z&X-Amz-Expires=86400&X-Amz-Signature=2c77b380040130d032883393a14ca25e71d492c4a2a51f604345ecd2f4184efb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+            
+        - O(log n)인 시간 복잡도가 나오게 된다.
