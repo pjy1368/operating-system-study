@@ -60,3 +60,8 @@
 - [File Systems](https://core.ewha.ac.kr/publicview/C0101020140516150939191200?vmode=f)
 - [File Systems Implementation 1](https://core.ewha.ac.kr/publicview/C0101020140520134614002164?vmode=f)
 - [File Systems Implementation 2](https://core.ewha.ac.kr/publicview/C0101020140523142954456205?vmode=f)
+
+## 10주차
+- [Disk Management and Scheduling 1](https://core.ewha.ac.kr/publicview/C0101020140523151255773807?vmode=f)
+- [Disk Management and Scheduling 2](https://core.ewha.ac.kr/publicview/C0101020140527124647396004?vmode=f)
+- 웹 캐싱 기법
